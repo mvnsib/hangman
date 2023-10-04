@@ -28,10 +28,13 @@ To install this project, it's required to install the latest version of [Python]
 ## File Structure
 
 ```
-|
-📦 hangman
-├─ README.md
-└─ milestone_2.py
+📦 Hangman
+├─ hangman
+│  ├─ hangman_Template.py
+│  ├─ milestone_2.py
+│  └─ milestone_3.py
+└─ README.md
+
 ```
 
 ## License Information
