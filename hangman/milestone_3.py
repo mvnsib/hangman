@@ -1,4 +1,5 @@
 import random
+import milestone_2
 
 fruits = ["Apple", "Banana", "Pineapple", "Mango", "Peach"]
 

@@ -33,6 +33,7 @@ To install this project, it's required to install the latest version of [Python]
 │  ├─ hangman_Template.py
 │  ├─ milestone_2.py
 │  └─ milestone_3.py
+│  └─ milestone_4.py
 └─ README.md
 
 ```
