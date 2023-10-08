@@ -20,10 +20,11 @@ To install this project, it's required to install the latest version of [Python]
 
 ## Usage Guide
 
-1. Open the Terminal on your machine and type `python milestone_2.py`.
-2. The program will then randomly choose a word, giving the user a prompt to guess a letter from the randomly chosen word.
-3. Keep guessing the letters until the word has been revealed to you.
-4. The program will output the message whether you've lost or won the game.
+1. Open the Terminal on your machine and type `python milestone_5.py`.
+2. The program will then randomly choose a word, giving the user a prompt to guess a letter.
+3. If guessed right, the letter will reveal itself and the position of the word where it occurs.
+4. Keep guessing the letters until the word has been revealed to you.
+5. The program will output the message whether you've lost or won the game.
 
 ## File Structure
 
@@ -34,6 +35,7 @@ To install this project, it's required to install the latest version of [Python]
 │  ├─ milestone_2.py
 │  └─ milestone_3.py
 │  └─ milestone_4.py
+│  └─ milestone_5.py
 └─ README.md
 
 ```
@@ -41,3 +43,4 @@ To install this project, it's required to install the latest version of [Python]
 ## License Information
 
 Github license
+AICore license
