@@ -42,5 +42,5 @@ To install this project, it's required to install the latest version of [Python]
 
 ## License Information
 
-Github license
+Github license\
 AICore license
